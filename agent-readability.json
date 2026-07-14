@@ -1,0 +1,20 @@
+{
+  "artifacts": {
+    "markdown": {
+      "contentNegotiation": "text/markdown",
+      "pattern": "https://help.sessio.health/{route}.md"
+    },
+    "llmsFullTxt": "https://help.sessio.health/llms-full.txt",
+    "llmsTxt": "https://help.sessio.health/llms.txt",
+    "sitemap": "https://help.sessio.health/sitemap.xml"
+  },
+  "description": "Гайды и ответы по работе с Sessio.",
+  "generator": "blume@1.0.3",
+  "name": "Помощь Sessio",
+  "site": "https://help.sessio.health",
+  "contentUsage": {
+    "search": true,
+    "ai-input": true,
+    "ai-train": true
+  }
+}
