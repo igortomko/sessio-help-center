@@ -1,20 +1,20 @@
 ---
-title: Как обрабатывается сессия
-description: Что означают статусы после записи или загрузки.
+title: How session processing works
+description: Understand the statuses shown after recording or upload.
 ---
 
-После завершения записи Sessio последовательно загружает аудио, готовит расшифровку и создает материалы сессии.
+After recording ends, Sessio uploads the audio, prepares the transcript, and creates the session materials.
 
-Основные статусы:
+Main statuses:
 
-- **Загрузка аудио** — запись отправляется с Mac;
-- **Готовим расшифровку** — аудио принято и ожидает обработки;
-- **Готовим черновик** — расшифровка готова, Sessio формирует материалы;
-- **Готово к проверке** — саммари, расшифровка и заметка доступны;
-- **Ошибка обработки** — обработку можно попробовать снова.
+- **Uploading audio** — the recording is being sent from your Mac;
+- **Preparing transcript** — the audio has been received and is waiting for processing;
+- **Preparing draft** — the transcript is ready and Sessio is creating the session materials;
+- **Ready to review** — the summary, transcript, and note are available;
+- **Processing error** — you can retry processing.
 
-Черновик заметки сохраняется автоматически сразу после подготовки. Ручные заметки тоже остаются доступны, если расшифровка не удалась.
+The note draft is saved automatically as soon as it is ready. Manual notes remain available even if transcription fails.
 
 :::note
-Повторная обработка возможна, пока доступно исходное аудио. Если оно уже удалено, Sessio покажет, что повторить обработку нельзя.
+You can retry processing while the source audio is still available. If it has already been deleted, Sessio will explain that processing cannot be retried.
 :::

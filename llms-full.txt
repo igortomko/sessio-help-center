@@ -1,36 +1,161 @@
-# Помощь Sessio
+# Sessio Help Center
 
-> Гайды и ответы по работе с Sessio.
+> Guides and answers for using Sessio.
 
-# Помощь Sessio
+# Sessio Help Center
 Source: https://help.sessio.health/
+
+Sessio helps you stay focused on your client during a meeting, then prepares a transcript, summary, and note draft. The draft is saved automatically and remains editable.
+
+## Get started
+
+- [Run your first session](/start/first-session)
+- [Add a client](/clients/add-client)
+- [Record a session](/sessions/record)
+- [Upload an existing recording](/sessions/upload)
+
+## Key features
+
+- [Session note](/sessions/note)
+- [Transcript](/sessions/transcript)
+- [Summary and insights](/sessions/summary)
+- [Client overview](/clients/overview)
+- [Share materials with a supervisor](/sessions/share-supervisor)
+
+## Troubleshooting
+
+- [Recording issues](/troubleshooting/recording)
+- [Upload and processing issues](/troubleshooting/processing)
+
+---
+
+# Clients
+Source: https://help.sessio.health/clients
+
+A client profile brings together contact details, your private note, the client overview, session history, and uploaded files.
+
+Active clients appear in the sidebar. Drag them to change their order. Archived clients are hidden from the main list and remain available in Settings.
+
+Inside a client profile:
+
+- **Overview** helps you return to the client's context before the next meeting;
+- **Sessions** contains notes, summaries, and transcripts for individual meetings;
+- **Files** stores materials related to the client that are not necessarily sessions.
+
+The short field under the client's name is useful for your own reference, such as the referral source or the date you started working together.
+
+---
+
+# Add or edit a client
+Source: https://help.sessio.health/clients/add-client
+
+## Add a client
+
+1. Select **Add client** next to **Clients**.
+2. Enter the client's name.
+3. Optionally add pronouns, country, email, phone number, WhatsApp, or Telegram.
+4. Add a private note with any useful context.
+5. Select **Add client**.
+
+If a client with the same name or email already exists, Sessio will offer to open their profile. If the client is archived, Sessio will offer to restore it.
+
+## Edit a client
+
+Open the actions menu next to the client's name and select **Edit client**. You can update contact details and your private note at any time.
+
+Email is used to match calendar events with the client. It is not required to record or upload a session.
+
+---
+
+# Archive or delete a client
+Source: https://help.sessio.health/clients/archive-delete
+
+## Archive a client
+
+Archiving hides the client from the sidebar while keeping their profile, sessions, notes, and files.
+
+1. Open the actions menu next to the client.
+2. Select **Archive**.
+
+Restore a client from **Settings → Archived clients**.
+
+## Delete a client
+
+Deleting a client permanently removes their profile, sessions, notes, and files. This action cannot be undone.
+
+You can delete a client from **Archived clients**. If the client has sessions still processing, wait for them to finish or delete those sessions first.
+
+:::warning
+If you only want to remove a client from your current list, archive them instead of deleting them.
+:::
+
+---
+
+# Client files
+Source: https://help.sessio.health/clients/files
+
+The **Files** section stores materials that add to the client's context, including previous notes, questionnaires, transcripts, documents, images, and audio.
+
+Supported formats include MP3, M4A, WAV, PDF, DOCX, DOC, TXT, CSV, JPG, and PNG.
+
+## Add a file
+
+1. Open the client profile and go to **Files**.
+2. Drag a file into the upload area or select **Upload**.
+3. For an audio recording, choose:
+   - **Create session** — creates a new session on the selected date;
+   - **Keep as file** — keeps the recording with the client's materials without creating a session note.
+
+After processing, Sessio can use the file's contents in the client overview. File deletion becomes permanent after the available undo period ends.
+
+---
+
+# Client overview
+Source: https://help.sessio.health/clients/overview
+
+The **Overview** tab brings together client context from saved sessions and files. It helps you quickly recall key themes and agreements before the next meeting.
+
+The summary appears after the first processed session. You can also write it manually. Individual sections can be edited, reordered, hidden, or refreshed.
+
+When an item is based on a recording, its sources may appear beside it. Open a source to compare the wording with the relevant session.
+
+:::note
+“Not found in sources” means Sessio could not find confirmed information for that section in the available sessions and files.
+:::
+
+Export the overview as PDF or Markdown from the **Actions** menu.
+
+---
+
+# Помощь Sessio
+Source: https://help.sessio.health/ru
 
 Sessio помогает сохранить внимание на клиенте во время встречи, а после готовит расшифровку, саммари и черновик заметки. Черновик сохраняется автоматически и остается доступен для редактирования.
 
 ## С чего начать
 
-- [Провести первую сессию](/start/first-session)
-- [Добавить клиента](/clients/add-client)
-- [Записать сессию](/sessions/record)
-- [Загрузить готовую запись](/sessions/upload)
+- [Провести первую сессию](/ru/start/first-session)
+- [Добавить клиента](/ru/clients/add-client)
+- [Записать сессию](/ru/sessions/record)
+- [Загрузить готовую запись](/ru/sessions/upload)
 
 ## Основные возможности
 
-- [Заметка сессии](/sessions/note)
-- [Расшифровка](/sessions/transcript)
-- [Саммари и инсайты](/sessions/summary)
-- [Обзор клиента](/clients/overview)
-- [Передать материалы супервизору](/sessions/share-supervisor)
+- [Заметка сессии](/ru/sessions/note)
+- [Расшифровка](/ru/sessions/transcript)
+- [Саммари и инсайты](/ru/sessions/summary)
+- [Обзор клиента](/ru/clients/overview)
+- [Передать материалы супервизору](/ru/sessions/share-supervisor)
 
 ## Если что-то не работает
 
-- [Проблемы с записью](/troubleshooting/recording)
-- [Проблемы с загрузкой и обработкой](/troubleshooting/processing)
+- [Проблемы с записью](/ru/troubleshooting/recording)
+- [Проблемы с загрузкой и обработкой](/ru/troubleshooting/processing)
 
 ---
 
 # Клиенты
-Source: https://help.sessio.health/clients
+Source: https://help.sessio.health/ru/clients
 
 Карточка клиента объединяет контакты, заметку о клиенте, обзор, историю сессий и загруженные файлы.
 
@@ -47,7 +172,7 @@ Source: https://help.sessio.health/clients
 ---
 
 # Добавить или изменить клиента
-Source: https://help.sessio.health/clients/add-client
+Source: https://help.sessio.health/ru/clients/add-client
 
 ## Добавить клиента
 
@@ -68,7 +193,7 @@ Email используется для сопоставления событий 
 ---
 
 # Архивировать или удалить клиента
-Source: https://help.sessio.health/clients/archive-delete
+Source: https://help.sessio.health/ru/clients/archive-delete
 
 ## Архивировать
 
@@ -92,7 +217,7 @@ Source: https://help.sessio.health/clients/archive-delete
 ---
 
 # Файлы клиента
-Source: https://help.sessio.health/clients/files
+Source: https://help.sessio.health/ru/clients/files
 
 Раздел **Файлы** хранит материалы, которые дополняют контекст клиента: прошлые заметки, анкеты, расшифровки, документы, изображения и аудио.
 
@@ -111,7 +236,7 @@ Source: https://help.sessio.health/clients/files
 ---
 
 # Обзор клиента
-Source: https://help.sessio.health/clients/overview
+Source: https://help.sessio.health/ru/clients/overview
 
 Вкладка **Обзор** собирает контекст клиента из сохраненных сессий и файлов. Она помогает быстро вспомнить основные темы и договоренности перед следующей встречей.
 
@@ -128,7 +253,7 @@ Source: https://help.sessio.health/clients/overview
 ---
 
 # Сессии
-Source: https://help.sessio.health/sessions
+Source: https://help.sessio.health/ru/sessions
 
 Сессию можно создать двумя способами: записать встречу в Sessio или загрузить готовую аудиозапись.
 
@@ -145,7 +270,7 @@ Source: https://help.sessio.health/sessions
 ---
 
 # Спросить Sessio
-Source: https://help.sessio.health/sessions/ask-sessio
+Source: https://help.sessio.health/ru/sessions/ask-sessio
 
 **Спросить Sessio** помогает быстро найти или собрать информацию внутри открытой сессии.
 
@@ -167,7 +292,7 @@ Source: https://help.sessio.health/sessions/ask-sessio
 ---
 
 # Экспортировать или удалить сессию
-Source: https://help.sessio.health/sessions/export-delete
+Source: https://help.sessio.health/ru/sessions/export-delete
 
 ## Экспорт
 
@@ -187,7 +312,7 @@ Source: https://help.sessio.health/sessions/export-delete
 ---
 
 # Заметка сессии
-Source: https://help.sessio.health/sessions/note
+Source: https://help.sessio.health/ru/sessions/note
 
 После обработки записи Sessio готовит черновик заметки по выбранному подходу. Он появляется во вкладке **Заметка** и сохраняется автоматически.
 
@@ -206,7 +331,7 @@ Source: https://help.sessio.health/sessions/note
 ---
 
 # Как обрабатывается сессия
-Source: https://help.sessio.health/sessions/processing
+Source: https://help.sessio.health/ru/sessions/processing
 
 После завершения записи Sessio последовательно загружает аудио, готовит расшифровку и создает материалы сессии.
 
@@ -227,7 +352,7 @@ Source: https://help.sessio.health/sessions/processing
 ---
 
 # Записать сессию
-Source: https://help.sessio.health/sessions/record
+Source: https://help.sessio.health/ru/sessions/record
 
 Sessio записывает ваш голос через микрофон, а голос клиента из Zoom, Google Meet или другого приложения — через системный звук macOS.
 
@@ -254,7 +379,7 @@ macOS называет доступ к системному звуку «Зап�
 ---
 
 # Передать материалы супервизору
-Source: https://help.sessio.health/sessions/share-supervisor
+Source: https://help.sessio.health/ru/sessions/share-supervisor
 
 Sessio помогает подготовить материалы сессии для передачи супервизору.
 
@@ -273,7 +398,7 @@ Sessio помогает подготовить материалы сессии �
 ---
 
 # Саммари и инсайты
-Source: https://help.sessio.health/sessions/summary
+Source: https://help.sessio.health/ru/sessions/summary
 
 Вкладка **Саммари** собирает основные темы сессии в короткую структуру. В зависимости от содержания записи она может включать:
 
@@ -292,7 +417,7 @@ Source: https://help.sessio.health/sessions/summary
 ---
 
 # Расшифровка
-Source: https://help.sessio.health/sessions/transcript
+Source: https://help.sessio.health/ru/sessions/transcript
 
 Вкладка **Расшифровка** показывает реплики терапевта и клиента с привязкой к записи.
 
@@ -313,7 +438,7 @@ Source: https://help.sessio.health/sessions/transcript
 ---
 
 # Загрузить готовую запись
-Source: https://help.sessio.health/sessions/upload
+Source: https://help.sessio.health/ru/sessions/upload
 
 Готовую запись можно загрузить без доступа к микрофону или записи экрана.
 
@@ -339,7 +464,7 @@ Source: https://help.sessio.health/sessions/upload
 ---
 
 # Настройки
-Source: https://help.sessio.health/settings
+Source: https://help.sessio.health/ru/settings
 
 Откройте меню аккаунта в нижней части боковой панели и выберите **Настройки**.
 
@@ -358,7 +483,7 @@ Source: https://help.sessio.health/settings
 ---
 
 # Аккаунт
-Source: https://help.sessio.health/settings/account
+Source: https://help.sessio.health/ru/settings/account
 
 Раздел **Аккаунт** содержит данные вашего профиля и настройки безопасности.
 
@@ -387,7 +512,7 @@ Source: https://help.sessio.health/settings/account
 ---
 
 # Данные и приватность
-Source: https://help.sessio.health/settings/data-privacy
+Source: https://help.sessio.health/ru/settings/data-privacy
 
 Sessio работает с чувствительными материалами, поэтому важно понимать, что происходит с данными сессии.
 
@@ -414,7 +539,7 @@ Sessio автоматически готовит и сохраняет черн�
 ---
 
 # Разрешения macOS
-Source: https://help.sessio.health/settings/permissions
+Source: https://help.sessio.health/ru/settings/permissions
 
 Для записи сессий Sessio использует системные разрешения macOS.
 
@@ -432,7 +557,7 @@ Source: https://help.sessio.health/settings/permissions
 ---
 
 # Предпочтения
-Source: https://help.sessio.health/settings/preferences
+Source: https://help.sessio.health/ru/settings/preferences
 
 В разделе **Настройки → Предпочтения** можно изменить:
 
@@ -453,7 +578,7 @@ Source: https://help.sessio.health/settings/preferences
 ---
 
 # Начало работы
-Source: https://help.sessio.health/start
+Source: https://help.sessio.health/ru/start
 
 Работа в Sessio начинается с клиента. После этого можно записать новую сессию или загрузить готовую аудиозапись.
 
@@ -472,7 +597,7 @@ Source: https://help.sessio.health/start
 ---
 
 # Первая сессия
-Source: https://help.sessio.health/start/first-session
+Source: https://help.sessio.health/ru/start/first-session
 
 ## 1. Добавьте клиента
 
@@ -500,7 +625,7 @@ Source: https://help.sessio.health/start/first-session
 ---
 
 # Навигация и поиск
-Source: https://help.sessio.health/start/navigation
+Source: https://help.sessio.health/ru/start/navigation
 
 Основные разделы находятся в боковой панели:
 
@@ -521,12 +646,12 @@ Source: https://help.sessio.health/start/navigation
 ---
 
 # Решение проблем
-Source: https://help.sessio.health/troubleshooting
+Source: https://help.sessio.health/ru/troubleshooting
 
 Начните с раздела, который соответствует проблеме:
 
-- [Не начинается или прерывается запись](/troubleshooting/recording)
-- [Не загружается или не обрабатывается сессия](/troubleshooting/processing)
+- [Не начинается или прерывается запись](/ru/troubleshooting/recording)
+- [Не загружается или не обрабатывается сессия](/ru/troubleshooting/processing)
 
 Если предложенные действия не помогли, откройте **Настройки → Помощь → Сообщить об ошибке**. Укажите:
 
@@ -541,7 +666,7 @@ Source: https://help.sessio.health/troubleshooting
 ---
 
 # Проблемы с загрузкой и обработкой
-Source: https://help.sessio.health/troubleshooting/processing
+Source: https://help.sessio.health/ru/troubleshooting/processing
 
 ## Загрузка прервалась
 
@@ -568,7 +693,7 @@ Source: https://help.sessio.health/troubleshooting/processing
 ---
 
 # Проблемы с записью
-Source: https://help.sessio.health/troubleshooting/recording
+Source: https://help.sessio.health/ru/troubleshooting/recording
 
 ## Sessio просит доступ
 
@@ -587,3 +712,466 @@ Source: https://help.sessio.health/troubleshooting/recording
 Если доступ к экрану пропал во время встречи, сохраняется только уже записанная часть. Если загрузка не удалась, запись остается на этом Mac — откройте Sessio в строке меню и нажмите **Повторить загрузку**.
 
 Не удаляйте локальные файлы, пока Sessio показывает, что запись требует восстановления.
+
+---
+
+# Sessions
+Source: https://help.sessio.health/sessions
+
+You can create a session in two ways: record a meeting in Sessio or upload an existing audio recording.
+
+After processing, the session page contains:
+
+- **Summary** — key themes, agreements, risks, and a plan for the next meeting;
+- **Transcript** — therapist and client turns with timestamps;
+- **Note** — an automatically saved draft structured for the selected approach.
+
+You can also play the recording, ask a question with **Ask Sessio**, share materials, export the note, or delete the session.
+
+All meetings are listed under **Sessions** and in the **Sessions** tab of the client profile.
+
+---
+
+# Ask Sessio
+Source: https://help.sessio.health/sessions/ask-sessio
+
+**Ask Sessio** helps you quickly find or summarize information within the open session.
+
+For example, you can ask it to:
+
+- briefly summarize the meeting;
+- find agreements or homework;
+- list risks mentioned in the session;
+- describe the client's mood based on the recording.
+
+The answer may include transcript links so you can check the original segment.
+
+Questions and answers from this window are not added to the client profile and do not change the note or summary. If you need an answer elsewhere, copy it manually.
+
+:::note
+The answer only uses the open session. For the client's broader history, use the **Overview** tab.
+:::
+
+---
+
+# Export or delete a session
+Source: https://help.sessio.health/sessions/export-delete
+
+## Export
+
+Open the session and select **Actions**. Two formats are available:
+
+- **PDF** — a ready-to-read or printable document;
+- **Markdown** — a text format you can move into other apps.
+
+The export includes the session note and basic metadata: date, approach, and therapist name.
+
+## Delete
+
+Select **Actions → Delete session**. The associated note, transcript, and audio are deleted with the session. They cannot be restored after confirmation.
+
+If you need to keep the text outside Sessio, export it first.
+
+---
+
+# Session note
+Source: https://help.sessio.health/sessions/note
+
+After processing a recording, Sessio prepares a note draft structured for the selected approach. It appears in the **Note** tab and is saved automatically.
+
+You do not need to approve or manually save the note. Once it is ready, you can edit the wording, add your own items, or remove anything unnecessary. Changes are saved automatically.
+
+The draft is a starting point, not a final assessment of the client. Sessio uses the recording and available context but does not make decisions for the therapist.
+
+## If speaker roles are reversed
+
+First correct the speaker for an individual turn, or swap therapist and client roles across the entire transcript. You can then prepare the note again.
+
+:::warning
+Preparing the note again may replace your manual edits. Copy any important text before continuing.
+:::
+
+---
+
+# How session processing works
+Source: https://help.sessio.health/sessions/processing
+
+After recording ends, Sessio uploads the audio, prepares the transcript, and creates the session materials.
+
+Main statuses:
+
+- **Uploading audio** — the recording is being sent from your Mac;
+- **Preparing transcript** — the audio has been received and is waiting for processing;
+- **Preparing draft** — the transcript is ready and Sessio is creating the session materials;
+- **Ready to review** — the summary, transcript, and note are available;
+- **Processing error** — you can retry processing.
+
+The note draft is saved automatically as soon as it is ready. Manual notes remain available even if transcription fails.
+
+:::note
+You can retry processing while the source audio is still available. If it has already been deleted, Sessio will explain that processing cannot be retried.
+:::
+
+---
+
+# Record a session
+Source: https://help.sessio.health/sessions/record
+
+Sessio records your voice through the microphone and the client's voice from Zoom, Google Meet, or another app through macOS system audio.
+
+## Before your first recording
+
+Allow Sessio to access:
+
+- the microphone;
+- Screen Recording;
+- notifications, if you want to be notified when the note is ready.
+
+macOS calls system audio access “Screen Recording,” although Sessio uses it to capture audio from the call.
+
+## Start recording
+
+1. Select **Start session** from the client profile, or open Sessio from the Mac menu bar.
+2. Select a client. You can also start without a client and attach the session later.
+3. Select **Start recording**.
+
+You can pause and resume the recording during the meeting. When you stop, Sessio saves and uploads the audio, then starts processing it.
+
+If your internet connection drops, the recording remains on this Mac. Retry the upload from Sessio in the menu bar.
+
+---
+
+# Share materials with a supervisor
+Source: https://help.sessio.health/sessions/share-supervisor
+
+Sessio helps prepare session materials to share with a supervisor.
+
+1. Open the relevant session.
+2. Select **Share**.
+3. Open the **Supervisor** tab.
+4. Review the preview.
+5. Copy the text or link.
+
+In the supervisor version, Sessio removes names and identifying details. Always review the preview before sending it: wording from the session itself may still identify someone indirectly.
+
+:::warning
+Share materials only through a channel agreed with the client and supervisor. Automatic de-identification does not replace your own review of the text.
+:::
+
+---
+
+# Summary and insights
+Source: https://help.sessio.health/sessions/summary
+
+The **Summary** tab organizes the session's key themes into a short structure. Depending on the recording, it may include:
+
+- brief context;
+- key themes and affect;
+- agreements and homework;
+- risks;
+- a plan for the next session.
+
+These items help you notice important details and return to them after the meeting. Insights in Sessio are not diagnoses or recommendations; review them alongside the recording and your own understanding of the client.
+
+You can edit, delete, reorder, or expand an item manually. The source icon opens the recording segment it is based on. If Sessio marks an item for review, compare it with the transcript.
+
+Copy the entire summary or individual sections.
+
+---
+
+# Transcript
+Source: https://help.sessio.health/sessions/transcript
+
+The **Transcript** tab shows therapist and client turns linked to the recording.
+
+In the transcript, you can:
+
+- search the text with `⌘F`;
+- jump to the relevant point in the recording;
+- edit the text of an individual turn;
+- change the speaker of a turn;
+- swap therapist and client roles for the entire session.
+
+If roles are reversed across many turns, use **Swap therapist and client**. Selecting it again restores the original roles.
+
+After roles are corrected, Sessio will offer to prepare the note again. If you have already edited the note manually, the new version may overwrite those changes.
+
+Summary items may link to specific transcript segments. This helps you quickly check what a statement is based on.
+
+---
+
+# Upload an existing recording
+Source: https://help.sessio.health/sessions/upload
+
+You can upload an existing recording without granting microphone or Screen Recording access.
+
+## From the session list
+
+1. Open **Sessions**.
+2. Select **Upload session**.
+3. Choose an MP3, M4A, or WAV file.
+4. Select the client.
+5. Wait for the upload to finish.
+
+## From a client profile
+
+1. Open the client profile and go to **Files**.
+2. Upload the audio recording.
+3. Select **Create session**.
+4. Choose the meeting date.
+
+The session date appears in the client's history and cannot be in the future.
+
+After upload, Sessio prepares a transcript, summary, and note draft. You can close the page while processing continues in the background.
+
+---
+
+# Settings
+Source: https://help.sessio.health/settings
+
+Open the account menu at the bottom of the sidebar and select **Settings**.
+
+Main sections:
+
+- **Account** — profile, approach, email, and account deletion;
+- **Preferences** — theme, language, dates, sounds, and notifications;
+- **Permissions** — microphone, Screen Recording, and notification access;
+- **Archived clients** — restore or permanently delete clients;
+- **Help** — guides, bug reports, and feature suggestions;
+- **Data and privacy** — a plain-language overview of how session data is handled;
+- **About** — your Sessio version and update checks.
+
+Select **Back to app** to return to the main screen.
+
+---
+
+# Account
+Source: https://help.sessio.health/settings/account
+
+The **Account** section contains your profile details and security settings.
+
+Here you can change:
+
+- name;
+- country;
+- primary approach used to structure notes;
+- practice experience;
+- sign-in email.
+
+When you change your email, Sessio sends a confirmation link to the new address.
+
+## Sign out
+
+Signing out ends your current login on this device only. Clients and materials remain in your account.
+
+## Delete your account
+
+Deleting your account permanently removes clients, sessions, notes, and saved files. This action cannot be undone.
+
+:::warning
+Before deleting your account, export any materials you want to keep outside Sessio.
+:::
+
+---
+
+# Data and privacy
+Source: https://help.sessio.health/settings/data-privacy
+
+Sessio works with sensitive materials, so it is important to understand what happens to session data.
+
+## Access
+
+Recordings, transcripts, and notes are stored in your account. In the app, they are available only to you unless you explicitly share them.
+
+## Model training
+
+Sessio does not use session data to train models without separate, explicit consent.
+
+## Control over text
+
+Sessio automatically prepares and saves a note draft. You can edit or delete it at any time. The note is not automatically approved or signed.
+
+## Deletion
+
+You can delete an individual session, a client, or your entire account. Related materials listed in the confirmation dialog are deleted with the selected item.
+
+:::note
+This article explains the product in plain language and does not replace the Privacy Policy or Terms of Use.
+:::
+
+---
+
+# macOS permissions
+Source: https://help.sessio.health/settings/permissions
+
+Sessio uses macOS system permissions to record sessions.
+
+- **Microphone** records your voice.
+- **Screen Recording** provides access to system audio, such as the client's voice from Zoom or Google Meet.
+- **Accessibility** synchronizes recording controls with the active meeting window.
+- **Notifications** let you know when the note is ready.
+
+Open **Settings → Permissions** and select **Allow** next to the relevant item. If the system prompt does not appear, open **macOS System Settings → Privacy & Security**.
+
+You may need to restart Sessio after enabling Screen Recording.
+
+Microphone and Screen Recording access are not required to upload an existing audio file.
+
+---
+
+# Preferences
+Source: https://help.sessio.health/settings/preferences
+
+Under **Settings → Preferences**, you can change:
+
+- whether Sessio opens at login;
+- interface sounds;
+- notifications when a note is ready;
+- call detection for Zoom, Meet, Teams, and other apps;
+- system, light, or dark theme;
+- app language;
+- expected recording language;
+- note and summary language;
+- first day of the week and time zone.
+
+The transcription language tells Sessio which language to expect in the recording. If meetings use several languages, choose **Multiple languages** or **Auto** when available.
+
+Open at login is useful when you want Sessio to detect calls and offer to record them.
+
+---
+
+# Getting started
+Source: https://help.sessio.health/start
+
+Work in Sessio starts with a client. You can then record a new session or upload an existing audio recording.
+
+A typical workflow looks like this:
+
+1. Add a client.
+2. Record a session or upload a recording.
+3. Wait for the transcript and session materials to be prepared.
+4. Open the note, summary, or transcript.
+5. Edit or export the text if needed.
+
+The note draft is saved automatically. You do not need to approve or save it separately.
+
+If you want to explore the app without using real data, open the sample client “Anna.” You can restore a deleted sample from **Settings → Help**.
+
+---
+
+# Your first session
+Source: https://help.sessio.health/start/first-session
+
+## 1. Add a client
+
+Select **Add client** in the sidebar. Enter a name and optionally add contact details, pronouns, and a short private note about the client.
+
+## 2. Choose how to create the session
+
+- To record a new meeting, select **Start session** from the client profile.
+- If you already have a recording, select **Upload session**, or drop an audio file into **Files** and choose **Create session**.
+
+Recording requires microphone and Screen Recording access. These permissions are not required when uploading an existing file.
+
+## 3. Wait for processing
+
+After recording or upload finishes, Sessio prepares a transcript, summary, and note draft. You can follow the status in the client's session list.
+
+## 4. Open the note
+
+The note draft is saved automatically. You can open and edit it at any time; your changes are saved automatically too.
+
+:::note
+If processing does not finish, the session and your manual notes remain saved. You can retry processing while the source audio is still available.
+:::
+
+---
+
+# Navigation and search
+Source: https://help.sessio.health/start/navigation
+
+The main sections are in the sidebar:
+
+- **Search** — find clients, sessions, notes, transcripts, and commands. Shortcut: `⌘K`.
+- **Sessions** — a list of completed and processing sessions.
+- **Clients** — active clients and their profiles.
+
+A client profile has three tabs:
+
+- **Overview** — the client's summary and context;
+- **Sessions** — meeting history;
+- **Files** — recordings, questionnaires, previous notes, and other materials.
+
+The account menu at the bottom of the sidebar contains settings, help, and sign out. Archived clients are available under **Settings → Archived clients**.
+
+Use `⌘B` to hide or show the sidebar.
+
+---
+
+# Troubleshooting
+Source: https://help.sessio.health/troubleshooting
+
+Start with the section that matches the issue:
+
+- [Recording does not start or is interrupted](/troubleshooting/recording)
+- [A session does not upload or process](/troubleshooting/processing)
+
+If these steps do not help, open **Settings → Help → Report a bug**. Include:
+
+1. what you were doing;
+2. what happened;
+3. what you expected to happen.
+
+You can attach images, PDFs, or videos up to 25 MB.
+
+Do not include client names, note text, or transcript excerpts unless necessary.
+
+---
+
+# Upload and processing issues
+Source: https://help.sessio.health/troubleshooting/processing
+
+## Upload was interrupted
+
+Check your internet connection and select **Retry**. A recording made in Sessio remains on your Mac until it uploads successfully.
+
+## File format is not supported
+
+Use MP3, M4A, or WAV for sessions. Client files also support PDF, DOCX, DOC, TXT, CSV, JPG, and PNG.
+
+## Transcript did not appear
+
+Open the session actions menu and select **Process again**. The session and your manual notes remain saved.
+
+If Sessio says the audio has already been deleted, processing cannot be retried. If you still have the source recording, upload it as a new session.
+
+## Therapist and client roles are reversed
+
+Open the transcript and change the speaker for an individual turn, or swap roles for the entire session. You can then prepare the note again.
+
+:::warning
+Preparing the note again may replace your manual edits.
+:::
+
+---
+
+# Recording issues
+Source: https://help.sessio.health/troubleshooting/recording
+
+## Sessio asks for access
+
+Open **Settings → Permissions** and enable microphone and Screen Recording access. If access is already enabled but Sessio does not detect it, restart the app.
+
+## The client cannot be heard
+
+Check Screen Recording access in macOS System Settings. Sessio uses this permission to capture audio from Zoom, Meet, and other apps.
+
+## The microphone is quiet or silent
+
+Open the green microphone indicator in the macOS menu bar and choose **Mic Mode → Standard**. Then make a short test recording.
+
+## Recording was interrupted
+
+If Screen Recording access is lost during a meeting, only the part already recorded is saved. If upload fails, the recording remains on this Mac. Open Sessio from the menu bar and select **Retry upload**.
+
+Do not delete local files while Sessio shows that the recording needs recovery.

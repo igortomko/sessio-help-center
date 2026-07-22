@@ -8,9 +8,9 @@
     "llmsTxt": "https://help.sessio.health/llms.txt",
     "sitemap": "https://help.sessio.health/sitemap.xml"
   },
-  "description": "Гайды и ответы по работе с Sessio.",
+  "description": "Guides and answers for using Sessio.",
   "generator": "blume@1.0.3",
-  "name": "Помощь Sessio",
+  "name": "Sessio Help Center",
   "site": "https://help.sessio.health",
   "contentUsage": {
     "search": true,
