@@ -1,20 +1,38 @@
 ---
 title: Navigation and search
-description: Find clients, sessions, search, and settings.
+description: Find clients, the schedule, search, and settings.
 ---
 
-The main sections are in the sidebar:
+The sidebar on the left is the main way to move around Sessio: from here you start a session, open the schedule, search, and go to clients.
 
-- **Search** — find clients, sessions, notes, transcripts, and commands. Shortcut: `⌘K`.
-- **Sessions** — a list of completed and processing sessions.
-- **Clients** — active clients and their profiles.
+## Where to find it
 
-A client profile has three tabs:
+All sections are gathered in the sidebar on the left. The account menu is at the very bottom.
 
-- **Overview** — the client's summary and context;
-- **Sessions** — meeting history;
-- **Files** — recordings, questionnaires, previous notes, and other materials.
+## How to do it
 
-The account menu at the bottom of the sidebar contains settings, help, and sign out. Archived clients are available under **Settings → Archived clients**.
+At the top of the sidebar:
 
-Use `⌘B` to hide or show the sidebar.
+- **Start session** — record a new meeting.
+- **Search** (`⌘K`) — search across clients, sessions, notes, and commands.
+- **Schedule** (`⌘S`) — meetings and calendar events.
+- **Insights** (`⌘I`, **Pro** badge) — a future feature.
+- **Add client** (`⌘N`) — a new client card.
+
+Below that is the list of active clients; drag them to change their order. At the very bottom is the account menu: settings, help, and sign out.
+
+![The Sessio search palette with navigation commands and sections](/images/command-palette.png)
+
+## What you'll see
+
+When you open a client, you'll see three tabs: **Portrait**, **Sessions**, and **Files**. Next to them are a methodology dropdown (for example, **CBT**) and the **⋮** actions menu.
+
+## If it didn't work
+
+Archived clients don't appear in the list — find them in **Settings → Archived clients**. Use `⌘B` to hide or show the sidebar.
+
+## Related articles
+
+- [Client portrait](/clients/overview)
+- [Your first session](/start/first-session)
+- [Schedule](/schedule)

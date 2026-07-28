@@ -8,44 +8,59 @@
 
 ## Getting started
 
-- [Getting started](https://help.sessio.health/start): Your first steps in Sessio, from adding a client to reviewing a completed note.
+- [Start here](https://help.sessio.health/start): Your first steps in Sessio, from adding a client to a finished note.
 - [Your first session](https://help.sessio.health/start/first-session): Add a client and generate your first note draft.
-- [Navigation and search](https://help.sessio.health/start/navigation): Find clients, sessions, search, and settings.
+- [Navigation and search](https://help.sessio.health/start/navigation): Find clients, the schedule, search, and settings.
 
 ## Clients
 
-- [Clients](https://help.sessio.health/clients): Keep client profiles, session history, and materials in one place.
-- [Add or edit a client](https://help.sessio.health/clients/add-client): Learn what information you can keep in a client profile.
-- [Client overview](https://help.sessio.health/clients/overview): Review a summary, context, and sources from the client's history.
-- [Client files](https://help.sessio.health/clients/files): Add recordings, questionnaires, transcripts, and previous notes.
-- [Archive or delete a client](https://help.sessio.health/clients/archive-delete): Understand the difference between archiving and permanently deleting a client.
+- [The client card](https://help.sessio.health/clients): A client's contacts, portrait, session history, and materials in one place.
+- [Add or edit a client](https://help.sessio.health/clients/add-client): Learn what information you can keep in a client card.
+- [Client portrait](https://help.sessio.health/clients/overview): A client's context drawn from processed sessions and files.
+- [Client files](https://help.sessio.health/clients/files): Add recordings, questionnaires, documents, and previous notes.
+- [Archive or delete a client](https://help.sessio.health/clients/archive-delete): The difference between archiving and permanently deleting a client.
 
-## Sessions
+## Schedule
 
-- [Sessions](https://help.sessio.health/sessions): Record, upload, and review materials from an individual meeting.
-- [Record a session](https://help.sessio.health/sessions/record): Start, pause, and finish a meeting recording.
-- [Upload an existing recording](https://help.sessio.health/sessions/upload): Create a session from an MP3, M4A, or WAV file.
-- [How session processing works](https://help.sessio.health/sessions/processing): Understand the statuses shown after recording or upload.
-- [Session note](https://help.sessio.health/sessions/note): Learn how the automatically saved note draft works.
-- [Transcript](https://help.sessio.health/sessions/transcript): Search and correct text and speaker roles in a session transcript.
-- [Summary and insights](https://help.sessio.health/sessions/summary): Review key session themes, sources, and items that need verification.
-- [Ask Sessio](https://help.sessio.health/sessions/ask-sessio): Ask a question about the contents of one session.
-- [Share materials with a supervisor](https://help.sessio.health/sessions/share-supervisor): Prepare and copy de-identified session materials.
-- [Export or delete a session](https://help.sessio.health/sessions/export-delete): Save session materials to your Mac or delete a meeting.
+- [Schedule overview](https://help.sessio.health/schedule): Planning appointments, calendar views, and sync.
+- [Schedule an appointment](https://help.sessio.health/schedule/appointments): How to create, repeat, reschedule, or cancel an appointment.
+- [Calendar sync](https://help.sessio.health/schedule/calendar-sync): How to show your Sessio appointments in Apple or Google Calendar.
+- [Online booking](https://help.sessio.health/schedule/online-booking): How to give clients a link so they can pick a time themselves.
+
+## Recording & upload
+
+- [Ways to add a session](https://help.sessio.health/record-upload): Record a meeting or upload an existing audio recording.
+- [Record a session](https://help.sessio.health/record-upload/record): Start, pause, and finish a meeting recording.
+- [Upload an existing recording](https://help.sessio.health/record-upload/upload): Create a session from an existing audio file.
+- [How session processing works](https://help.sessio.health/record-upload/processing): Understand the statuses shown after recording or upload.
+
+## After the session
+
+- [What's available after a session](https://help.sessio.health/after-session): Note, transcript, summary, questions about the session, and sharing materials.
+- [Session note](https://help.sessio.health/after-session/note): How the automatically saved note draft works and how to edit it.
+- [Transcript and roles](https://help.sessio.health/after-session/transcript): Search the session text and fix mixed-up speaker roles.
+- [Session summary](https://help.sessio.health/after-session/summary): The session's main themes, sources, and items to check.
+- [Ask Sessio](https://help.sessio.health/after-session/ask-sessio): How to ask a question about the content of a single session.
+- [Share materials with a supervisor](https://help.sessio.health/after-session/share-supervisor): How to prepare and copy a de-identified version of a session.
+- [Export or delete a session](https://help.sessio.health/after-session/export-delete): How to save materials to your Mac or delete a meeting.
 
 ## Settings
 
-- [Settings](https://help.sessio.health/settings): Manage your account, permissions, language, notifications, and privacy.
-- [macOS permissions](https://help.sessio.health/settings/permissions): Why Sessio needs microphone and Screen Recording access.
-- [Preferences](https://help.sessio.health/settings/preferences): Configure language, theme, notifications, and Sessio's behavior on your Mac.
-- [Account](https://help.sessio.health/settings/account): Manage your profile, email, approach, and account deletion.
+- [All settings](https://help.sessio.health/settings): Account, schedule, permissions, language, subscription, and privacy.
+- [macOS permissions](https://help.sessio.health/settings/permissions): Why Sessio needs microphone and Screen Recording access and how to grant them.
+- [Preferences](https://help.sessio.health/settings/preferences): Language, theme, notifications, and how Sessio behaves on your Mac.
+- [Account](https://help.sessio.health/settings/account): Profile, email, approach, sign-out, and account deletion.
 - [Data and privacy](https://help.sessio.health/settings/data-privacy): A brief overview of storage, model training, and data deletion.
 
 ## Troubleshooting
 
-- [Troubleshooting](https://help.sessio.health/troubleshooting): What to do when recording, upload, or processing does not finish.
-- [Recording issues](https://help.sessio.health/troubleshooting/recording): Resolve permission, microphone, system audio, and recording recovery issues.
-- [Upload and processing issues](https://help.sessio.health/troubleshooting/processing): Resolve file, transcription, and note processing errors.
+- [Where to look](https://help.sessio.health/troubleshooting): What to do when recording, upload, or processing does not finish.
+- [Recording issues](https://help.sessio.health/troubleshooting/recording): Permissions, a quiet microphone, call audio, and recording recovery.
+- [Upload and processing issues](https://help.sessio.health/troubleshooting/processing): What to do when a file, transcript, or note fails.
+
+## FAQ
+
+- [Beta tester questions](https://help.sessio.health/faq): Short answers to common questions about notes, recording, and processing.
 
 ## Русский
 
@@ -55,41 +70,56 @@
 
 ### Начало работы
 
-- [Начало работы](https://help.sessio.health/ru/start): Первые шаги в Sessio — от клиента до готовой заметки.
+- [С чего начать](https://help.sessio.health/ru/start): Первые шаги в Sessio — от клиента до готовой заметки.
 - [Первая сессия](https://help.sessio.health/ru/start/first-session): Как добавить клиента и получить первый черновик заметки.
-- [Навигация и поиск](https://help.sessio.health/ru/start/navigation): Где находятся клиенты, сессии, поиск и настройки.
+- [Навигация и поиск](https://help.sessio.health/ru/start/navigation): Где находятся клиенты, расписание, поиск и настройки.
 
 ### Клиенты
 
-- [Клиенты](https://help.sessio.health/ru/clients): Карточки клиентов, история сессий и материалы в одном месте.
+- [Карточка клиента](https://help.sessio.health/ru/clients): Контакты, портрет, история сессий и материалы клиента в одном месте.
 - [Добавить или изменить клиента](https://help.sessio.health/ru/clients/add-client): Какие данные можно хранить в карточке клиента.
-- [Обзор клиента](https://help.sessio.health/ru/clients/overview): Саммари, контекст и источники по истории клиента.
-- [Файлы клиента](https://help.sessio.health/ru/clients/files): Как добавлять записи, анкеты, расшифровки и прошлые заметки.
+- [Портрет клиента](https://help.sessio.health/ru/clients/overview): Контекст клиента из обработанных сессий и файлов.
+- [Файлы клиента](https://help.sessio.health/ru/clients/files): Как добавлять записи, анкеты, документы и прошлые заметки.
 - [Архивировать или удалить клиента](https://help.sessio.health/ru/clients/archive-delete): Разница между архивом и полным удалением клиента.
 
-### Сессии
+### Расписание
 
-- [Сессии](https://help.sessio.health/ru/sessions): Запись, загрузка и материалы отдельной встречи.
-- [Записать сессию](https://help.sessio.health/ru/sessions/record): Как начать, приостановить и завершить запись встречи.
-- [Загрузить готовую запись](https://help.sessio.health/ru/sessions/upload): Как создать сессию из MP3, M4A или WAV.
-- [Как обрабатывается сессия](https://help.sessio.health/ru/sessions/processing): Что означают статусы после записи или загрузки.
-- [Заметка сессии](https://help.sessio.health/ru/sessions/note): Как работает автоматически сохраненный черновик заметки.
-- [Расшифровка](https://help.sessio.health/ru/sessions/transcript): Поиск, исправление реплик и ролей в тексте сессии.
-- [Саммари и инсайты](https://help.sessio.health/ru/sessions/summary): Основные темы сессии, источники и пункты для проверки.
-- [Спросить Sessio](https://help.sessio.health/ru/sessions/ask-sessio): Как задать вопрос по содержанию одной сессии.
-- [Передать материалы супервизору](https://help.sessio.health/ru/sessions/share-supervisor): Как подготовить и скопировать обезличенные материалы сессии.
-- [Экспортировать или удалить сессию](https://help.sessio.health/ru/sessions/export-delete): Как сохранить материалы на Mac или удалить встречу.
+- [Обзор расписания](https://help.sessio.health/ru/schedule): Планирование приёмов, виды календаря и синхронизация.
+- [Запланировать приём](https://help.sessio.health/ru/schedule/appointments): Как создать, повторить, перенести или отменить приём.
+- [Синхронизация с календарём](https://help.sessio.health/ru/schedule/calendar-sync): Как показать приёмы Sessio в Apple или Google Calendar.
+- [Онлайн-запись](https://help.sessio.health/ru/schedule/online-booking): Как дать клиентам ссылку, чтобы они сами выбирали время.
+
+### Запись и загрузка
+
+- [Способы добавить сессию](https://help.sessio.health/ru/record-upload): Записать встречу или загрузить готовую аудиозапись.
+- [Записать сессию](https://help.sessio.health/ru/record-upload/record): Как начать, приостановить и завершить запись встречи.
+- [Загрузить готовую запись](https://help.sessio.health/ru/record-upload/upload): Как создать сессию из готового аудиофайла.
+- [Как обрабатывается сессия](https://help.sessio.health/ru/record-upload/processing): Что означают статусы после записи или загрузки.
+
+### После сессии
+
+- [Что доступно после сессии](https://help.sessio.health/ru/after-session): Заметка, расшифровка, разбор, вопросы к сессии и передача материалов.
+- [Заметка сессии](https://help.sessio.health/ru/after-session/note): Как работает автоматически сохранённый черновик заметки и как его редактировать.
+- [Расшифровка и роли](https://help.sessio.health/ru/after-session/transcript): Поиск по тексту сессии и исправление перепутанных ролей.
+- [Разбор сессии](https://help.sessio.health/ru/after-session/summary): Основные темы сессии, источники и пункты для проверки.
+- [Спросить Sessio](https://help.sessio.health/ru/after-session/ask-sessio): Как задать вопрос по содержанию одной сессии.
+- [Передать материалы супервизору](https://help.sessio.health/ru/after-session/share-supervisor): Как подготовить и скопировать обезличенную версию сессии.
+- [Экспортировать или удалить сессию](https://help.sessio.health/ru/after-session/export-delete): Как сохранить материалы на Mac или удалить встречу.
 
 ### Настройки
 
-- [Настройки](https://help.sessio.health/ru/settings): Аккаунт, разрешения, язык, уведомления и приватность.
-- [Разрешения macOS](https://help.sessio.health/ru/settings/permissions): Зачем Sessio нужны микрофон и запись экрана.
+- [Все настройки](https://help.sessio.health/ru/settings): Аккаунт, расписание, разрешения, язык, подписка и приватность.
+- [Разрешения macOS](https://help.sessio.health/ru/settings/permissions): Зачем Sessio нужны микрофон и запись экрана и как их выдать.
 - [Предпочтения](https://help.sessio.health/ru/settings/preferences): Язык, тема, уведомления и поведение Sessio на Mac.
-- [Аккаунт](https://help.sessio.health/ru/settings/account): Профиль, email, подход и удаление аккаунта.
+- [Аккаунт](https://help.sessio.health/ru/settings/account): Профиль, email, подход, выход и удаление аккаунта.
 - [Данные и приватность](https://help.sessio.health/ru/settings/data-privacy): Кратко о хранении, обучении моделей и удалении данных.
 
 ### Решение проблем
 
-- [Решение проблем](https://help.sessio.health/ru/troubleshooting): Что делать, если запись, загрузка или обработка не завершилась.
-- [Проблемы с записью](https://help.sessio.health/ru/troubleshooting/recording): Разрешения, тихий микрофон, системный звук и восстановление записи.
+- [Куда смотреть](https://help.sessio.health/ru/troubleshooting): Что делать, если запись, загрузка или обработка не завершилась.
+- [Проблемы с записью](https://help.sessio.health/ru/troubleshooting/recording): Разрешения, тихий микрофон, звук созвона и восстановление записи.
 - [Проблемы с загрузкой и обработкой](https://help.sessio.health/ru/troubleshooting/processing): Что делать при ошибке файла, расшифровки или заметки.
+
+### Частые вопросы
+
+- [Вопросы бета-тестеров](https://help.sessio.health/ru/faq): Короткие ответы на частые вопросы о заметках, записи и обработке.

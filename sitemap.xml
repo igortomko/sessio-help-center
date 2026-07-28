@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://help.sessio.health/</loc></url>
+  <url><loc>https://help.sessio.health/after-session/ask-sessio</loc></url>
+  <url><loc>https://help.sessio.health/after-session/export-delete</loc></url>
+  <url><loc>https://help.sessio.health/after-session/note</loc></url>
+  <url><loc>https://help.sessio.health/after-session/share-supervisor</loc></url>
+  <url><loc>https://help.sessio.health/after-session/summary</loc></url>
+  <url><loc>https://help.sessio.health/after-session/transcript</loc></url>
+  <url><loc>https://help.sessio.health/after-session</loc></url>
   <url><loc>https://help.sessio.health/clients/add-client</loc></url>
   <url><loc>https://help.sessio.health/clients/archive-delete</loc></url>
   <url><loc>https://help.sessio.health/clients/files</loc></url>
   <url><loc>https://help.sessio.health/clients/overview</loc></url>
   <url><loc>https://help.sessio.health/clients</loc></url>
+  <url><loc>https://help.sessio.health/faq</loc></url>
+  <url><loc>https://help.sessio.health/record-upload/processing</loc></url>
+  <url><loc>https://help.sessio.health/record-upload/record</loc></url>
+  <url><loc>https://help.sessio.health/record-upload/upload</loc></url>
+  <url><loc>https://help.sessio.health/record-upload</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/ask-sessio</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/export-delete</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/note</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/share-supervisor</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/summary</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session/transcript</loc></url>
+  <url><loc>https://help.sessio.health/ru/after-session</loc></url>
   <url><loc>https://help.sessio.health/ru/clients/add-client</loc></url>
   <url><loc>https://help.sessio.health/ru/clients/archive-delete</loc></url>
   <url><loc>https://help.sessio.health/ru/clients/files</loc></url>
   <url><loc>https://help.sessio.health/ru/clients/overview</loc></url>
   <url><loc>https://help.sessio.health/ru/clients</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/ask-sessio</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/export-delete</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/note</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/processing</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/record</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/share-supervisor</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/summary</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/transcript</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions/upload</loc></url>
-  <url><loc>https://help.sessio.health/ru/sessions</loc></url>
+  <url><loc>https://help.sessio.health/ru/faq</loc></url>
+  <url><loc>https://help.sessio.health/ru/record-upload/processing</loc></url>
+  <url><loc>https://help.sessio.health/ru/record-upload/record</loc></url>
+  <url><loc>https://help.sessio.health/ru/record-upload/upload</loc></url>
+  <url><loc>https://help.sessio.health/ru/record-upload</loc></url>
+  <url><loc>https://help.sessio.health/ru/schedule/appointments</loc></url>
+  <url><loc>https://help.sessio.health/ru/schedule/calendar-sync</loc></url>
+  <url><loc>https://help.sessio.health/ru/schedule/online-booking</loc></url>
+  <url><loc>https://help.sessio.health/ru/schedule</loc></url>
   <url><loc>https://help.sessio.health/ru/settings/account</loc></url>
   <url><loc>https://help.sessio.health/ru/settings/data-privacy</loc></url>
   <url><loc>https://help.sessio.health/ru/settings/permissions</loc></url>
@@ -33,16 +51,10 @@
   <url><loc>https://help.sessio.health/ru/troubleshooting/recording</loc></url>
   <url><loc>https://help.sessio.health/ru/troubleshooting</loc></url>
   <url><loc>https://help.sessio.health/ru</loc></url>
-  <url><loc>https://help.sessio.health/sessions/ask-sessio</loc></url>
-  <url><loc>https://help.sessio.health/sessions/export-delete</loc></url>
-  <url><loc>https://help.sessio.health/sessions/note</loc></url>
-  <url><loc>https://help.sessio.health/sessions/processing</loc></url>
-  <url><loc>https://help.sessio.health/sessions/record</loc></url>
-  <url><loc>https://help.sessio.health/sessions/share-supervisor</loc></url>
-  <url><loc>https://help.sessio.health/sessions/summary</loc></url>
-  <url><loc>https://help.sessio.health/sessions/transcript</loc></url>
-  <url><loc>https://help.sessio.health/sessions/upload</loc></url>
-  <url><loc>https://help.sessio.health/sessions</loc></url>
+  <url><loc>https://help.sessio.health/schedule/appointments</loc></url>
+  <url><loc>https://help.sessio.health/schedule/calendar-sync</loc></url>
+  <url><loc>https://help.sessio.health/schedule/online-booking</loc></url>
+  <url><loc>https://help.sessio.health/schedule</loc></url>
   <url><loc>https://help.sessio.health/settings/account</loc></url>
   <url><loc>https://help.sessio.health/settings/data-privacy</loc></url>
   <url><loc>https://help.sessio.health/settings/permissions</loc></url>

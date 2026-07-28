@@ -9,7 +9,7 @@
     "sitemap": "https://help.sessio.health/sitemap.xml"
   },
   "description": "Guides and answers for using Sessio.",
-  "generator": "blume@1.0.3",
+  "generator": "blume@1.2.0",
   "name": "Sessio Help Center",
   "site": "https://help.sessio.health",
   "contentUsage": {

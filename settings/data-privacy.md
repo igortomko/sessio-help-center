@@ -3,24 +3,28 @@ title: Data and privacy
 description: A brief overview of storage, model training, and data deletion.
 ---
 
-Sessio works with sensitive materials, so it is important to understand what happens to session data.
+Sessio works with sensitive materials, so it's important to understand what happens to your session data. You'll see the same wording in **Settings → Data & Privacy**.
 
-## Access
+## Where to find it
 
-Recordings, transcripts, and notes are stored in your account. In the app, they are available only to you unless you explicitly share them.
+Open **Settings → Data & Privacy**.
 
-## Model training
+## What happens to your session data
 
-Sessio does not use session data to train models without separate, explicit consent.
+- **Your data is stored in your account.** Recordings, transcripts, and summaries are stored in a secure cloud. In the app, this data is available only to you.
+- **We don't train AI on your sessions.** Processing services don't use your data to train models.
+- **Delete your data at any time.** You can delete a session, a client, or your entire account at any time. Recordings, transcripts, summaries, and audio are permanently deleted along with them.
+- **You stay in control.** The AI prepares a draft, and you edit and accept it. Nothing is signed automatically.
 
-## Control over text
+## If it didn't work
 
-Sessio automatically prepares and saves a note draft. You can edit or delete it at any time. The note is not automatically approved or signed.
-
-## Deletion
-
-You can delete an individual session, a client, or your entire account. Related materials listed in the confirmation dialog are deleted with the selected item.
+- **You need to delete a specific session or client.** Open [Export or delete a session](/after-session/export-delete) or [Archive or delete a client](/clients/archive-delete).
 
 :::note
-This article explains the product in plain language and does not replace the Privacy Policy or Terms of Use.
+This is a brief overview, not a legal document. Full terms are in the Privacy Policy and Terms of Use.
 :::
+
+## Related articles
+
+- [Account](/settings/account)
+- [Share materials with a supervisor](/after-session/share-supervisor)

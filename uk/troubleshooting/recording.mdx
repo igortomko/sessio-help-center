@@ -1,22 +1,26 @@
 ---
 title: Recording issues
-description: Resolve permission, microphone, system audio, and recording recovery issues.
+description: Permissions, a quiet microphone, call audio, and recording recovery.
 ---
 
-## Sessio asks for access
+Most recording problems come down to microphone or Screen Recording access, or an interrupted upload. Here is what to check.
 
-Open **Settings → Permissions** and enable microphone and Screen Recording access. If access is already enabled but Sessio does not detect it, restart the app.
+## Where to find it
 
-## The client cannot be heard
+Permissions are in **Settings → Permissions** and in macOS System Settings. The microphone mode and upload retry are in the Sessio panel in the menu bar.
 
-Check Screen Recording access in macOS System Settings. Sessio uses this permission to capture audio from Zoom, Meet, and other apps.
+## How to do it
 
-## The microphone is quiet or silent
+**Sessio asks for access again.** Enable the microphone and Screen Recording in **Settings → Permissions** or in macOS System Settings. After enabling Screen Recording, you may need to restart the app.
 
-Open the green microphone indicator in the macOS menu bar and choose **Mic Mode → Standard**. Then make a short test recording.
+**The client can't be heard.** This means Screen Recording access has not been granted — Sessio uses it to capture the call audio. Enable it and record a short test again.
 
-## Recording was interrupted
+**The microphone is quiet or silent.** Open the Sessio panel in the menu bar and switch the microphone mode to **Standard**. Then make a short test recording.
 
-If Screen Recording access is lost during a meeting, only the part already recorded is saved. If upload fails, the recording remains on this Mac. Open Sessio from the menu bar and select **Retry upload**.
+**The recording was interrupted.** The part already recorded stays on this Mac. Open the Sessio panel in the menu bar and retry the upload. Do not delete local files until the upload or recovery finishes.
 
-Do not delete local files while Sessio shows that the recording needs recovery.
+## Related articles
+
+- [Record a session](/record-upload/record)
+- [Upload and processing issues](/troubleshooting/processing)
+- [Permissions](/settings/permissions)

@@ -1,26 +1,30 @@
 ---
 title: Upload and processing issues
-description: Resolve file, transcription, and note processing errors.
+description: What to do when a file, transcript, or note fails.
 ---
 
-## Upload was interrupted
+If a session doesn't upload or process, retrying or checking the file format usually helps. Here is what to check.
 
-Check your internet connection and select **Retry**. A recording made in Sessio remains on your Mac until it uploads successfully.
+## Where to find it
 
-## File format is not supported
+The **Retry** and **Process again** actions are next to the session and in its actions menu. Speaker roles are changed in the transcript.
 
-Use MP3, M4A, or WAV for sessions. Client files also support PDF, DOCX, DOC, TXT, CSV, JPG, and PNG.
+## How to do it
 
-## Transcript did not appear
+**The upload was interrupted.** Check your internet connection and select **Retry**. A recording made in Sessio stays on your Mac until it uploads successfully.
 
-Open the session actions menu and select **Process again**. The session and your manual notes remain saved.
+**The format is not supported.** Use pdf, txt, docx, doc, csv, mp3, m4a, wav, jpg, or png.
 
-If Sessio says the audio has already been deleted, processing cannot be retried. If you still have the source recording, upload it as a new session.
+**The transcript didn't appear.** Open the session's actions menu and select **Process again** — this works while the source audio is still stored. The session and your manual notes remain saved.
 
-## Therapist and client roles are reversed
-
-Open the transcript and change the speaker for an individual turn, or swap roles for the entire session. You can then prepare the note again.
+**Therapist and client are swapped.** Open the transcript, change the speaker for a turn or swap the roles for the whole session, then prepare the note again.
 
 :::warning
-Preparing the note again may replace your manual edits.
+Preparing the note again may replace manual edits in the note text. Copy anything important first.
 :::
+
+## Related articles
+
+- [How session processing works](/record-upload/processing)
+- [Upload an existing recording](/record-upload/upload)
+- [Recording issues](/troubleshooting/recording)

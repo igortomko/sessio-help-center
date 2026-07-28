@@ -1,18 +1,34 @@
 ---
 title: Client files
-description: Add recordings, questionnaires, transcripts, and previous notes.
+description: Add recordings, questionnaires, documents, and previous notes.
 ---
 
-The **Files** section stores materials that add to the client's context, including previous notes, questionnaires, transcripts, documents, images, and audio.
+The **Files** tab stores materials that add to a client's context: previous notes, questionnaires, documents, images, and audio.
 
-Supported formats include MP3, M4A, WAV, PDF, DOCX, DOC, TXT, CSV, JPG, and PNG.
+## Where to find it
 
-## Add a file
+Open a client and go to the **Files** tab. The upload button is **Upload**.
 
-1. Open the client profile and go to **Files**.
-2. Drag a file into the upload area or select **Upload**.
-3. For an audio recording, choose:
-   - **Create session** — creates a new session on the selected date;
-   - **Keep as file** — keeps the recording with the client's materials without creating a session note.
+![The client Files tab with the Upload button](/images/client-files.png)
 
-After processing, Sessio can use the file's contents in the client overview. File deletion becomes permanent after the available undo period ends.
+## How to do it
+
+1. Select **Upload** or drag a file into the upload area.
+2. For an audio file, choose:
+   - **Create session** — Sessio asks for the meeting date and creates a session;
+   - **Keep as file** — the recording stays in the client's materials without a session note.
+3. Documents and images are kept as files by default and become client context.
+
+## What you'll see
+
+Supported formats are shown as badges: MP3, PDF, DOCX, TXT, JPG, CSV. The full list is pdf, txt, docx, doc, csv, mp3, m4a, wav, jpg, png. After processing, Sessio can use the file's contents in the client portrait.
+
+## If it didn't work
+
+If a format is not supported, use one of the formats listed above. When uploading audio, if you didn't see the choice, open the file again and select **Create session** or **Keep as file**.
+
+## Related articles
+
+- [Upload an existing recording](/record-upload/upload)
+- [Client portrait](/clients/overview)
+- [How session processing works](/record-upload/processing)

@@ -1,9 +1,15 @@
 ---
 title: Preferences
-description: Configure language, theme, notifications, and Sessio's behavior on your Mac.
+description: Language, theme, notifications, and how Sessio behaves on your Mac.
 ---
 
-Under **Settings → Preferences**, you can change:
+The **Preferences** section configures the app's appearance and behavior.
+
+## Where to find it
+
+Open **Settings → Preferences**.
+
+## What you can change
 
 - whether Sessio opens at login;
 - interface sounds;
@@ -15,6 +21,11 @@ Under **Settings → Preferences**, you can change:
 - note and summary language;
 - first day of the week and time zone.
 
-The transcription language tells Sessio which language to expect in the recording. If meetings use several languages, choose **Multiple languages** or **Auto** when available.
+## What to keep in mind
 
-Open at login is useful when you want Sessio to detect calls and offer to record them.
+The expected recording language affects which language Sessio expects to hear. If your meetings use several languages, choose **Multiple languages** or **Auto** when that option is available. Open at login is useful if you want Sessio to notice when a call starts and offer to record it.
+
+## Related articles
+
+- [macOS permissions](/settings/permissions)
+- [Record a session](/record-upload/record)

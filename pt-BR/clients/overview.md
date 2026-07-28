@@ -1,16 +1,37 @@
 ---
-title: Client overview
-description: Review a summary, context, and sources from the client's history.
+title: Client portrait
+description: A client's context drawn from processed sessions and files.
 ---
 
-The **Overview** tab brings together client context from saved sessions and files. It helps you quickly recall key themes and agreements before the next meeting.
+The **Portrait** tab gathers a client's context from processed sessions and files, so you can quickly recall the main themes before the next meeting. It is not a diagnosis or a conclusion about the client — it is a convenient summary of what has already come up.
 
-The summary appears after the first processed session. You can also write it manually. Individual sections can be edited, reordered, hidden, or refreshed.
+## Where to find it
 
-When an item is based on a recording, its sources may appear beside it. Open a source to compare the wording with the relevant session.
+Open a client and select the **Portrait** tab — it comes first, next to **Sessions** and **Files**.
+
+![The client Portrait tab with context blocks](/images/client-portrait.png)
+
+## How to do it
+
+1. Record or upload the first session and wait for processing.
+2. Open the **Portrait** tab — a summary of the client appears.
+3. Edit the text, add points, reorder them, or hide the ones you don't need.
+4. Select the source icon next to a point to jump to the session fragment it came from.
+
+## What you'll see
+
+The portrait is made up of separate context blocks. Points based on a recording are marked with a source icon. You can export the portrait as PDF or Markdown from the **⋮** menu.
+
+## If it didn't work
+
+The portrait appears only after the first processed session.
 
 :::note
-“Not found in sources” means Sessio could not find confirmed information for that section in the available sessions and files.
+“Not found in sources” means there was no confirmed information for that block in the available sessions and files.
 :::
 
-Export the overview as PDF or Markdown from the **Actions** menu.
+## Related articles
+
+- [Client files](/clients/files)
+- [How session processing works](/record-upload/processing)
+- [Session note](/after-session/note)
