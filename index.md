@@ -22,7 +22,7 @@ Sessio helps you stay focused on your client during a meeting, then prepares a t
 - [Session note](/after-session/note)
 - [Transcript and speaker roles](/after-session/transcript)
 - [Session summary](/after-session/summary)
-- [Ask Sessio](/after-session/ask-sessio)
+- [Ask Sio](/after-session/ask-sessio)
 - [Share materials with a supervisor](/after-session/share-supervisor)
 
 ## Client and schedule

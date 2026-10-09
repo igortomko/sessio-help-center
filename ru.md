@@ -22,7 +22,7 @@ Sessio помогает сохранить внимание на клиенте 
 - [Заметка сессии](/ru/after-session/note)
 - [Расшифровка и роли](/ru/after-session/transcript)
 - [Разбор сессии](/ru/after-session/summary)
-- [Спросить Sessio](/ru/after-session/ask-sessio)
+- [Спросить Сио](/ru/after-session/ask-sessio)
 - [Передать материалы супервизору](/ru/after-session/share-supervisor)
 
 ## Клиент и расписание

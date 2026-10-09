@@ -40,7 +40,7 @@
 - [Session note](https://help.sessio.health/after-session/note): How the automatically saved note draft works and how to edit it.
 - [Transcript and roles](https://help.sessio.health/after-session/transcript): Search the session text and fix mixed-up speaker roles.
 - [Session summary](https://help.sessio.health/after-session/summary): The session's main themes, sources, and items to check.
-- [Ask Sessio](https://help.sessio.health/after-session/ask-sessio): How to ask a question about the content of a single session.
+- [Ask Sio](https://help.sessio.health/after-session/ask-sessio): How to ask a question about a client or a session and get an answer linked to what was said.
 - [Share materials with a supervisor](https://help.sessio.health/after-session/share-supervisor): How to prepare and copy a de-identified version of a session.
 - [Export or delete a session](https://help.sessio.health/after-session/export-delete): How to save materials to your Mac or delete a meeting.
 
@@ -102,7 +102,7 @@
 - [Заметка сессии](https://help.sessio.health/ru/after-session/note): Как работает автоматически сохранённый черновик заметки и как его редактировать.
 - [Расшифровка и роли](https://help.sessio.health/ru/after-session/transcript): Поиск по тексту сессии и исправление перепутанных ролей.
 - [Разбор сессии](https://help.sessio.health/ru/after-session/summary): Основные темы сессии, источники и пункты для проверки.
-- [Спросить Sessio](https://help.sessio.health/ru/after-session/ask-sessio): Как задать вопрос по содержанию одной сессии.
+- [Спросить Сио](https://help.sessio.health/ru/after-session/ask-sessio): Как задать вопрос о клиенте или о сессии и получить ответ со ссылками на реплики.
 - [Передать материалы супервизору](https://help.sessio.health/ru/after-session/share-supervisor): Как подготовить и скопировать обезличенную версию сессии.
 - [Экспортировать или удалить сессию](https://help.sessio.health/ru/after-session/export-delete): Как сохранить материалы на Mac или удалить встречу.
 

@@ -36,4 +36,4 @@ description: Основные темы сессии, источники и пу�
 
 - [Заметка сессии](/ru/after-session/note)
 - [Расшифровка и роли](/ru/after-session/transcript)
-- [Спросить Sessio](/ru/after-session/ask-sessio)
+- [Спросить Сио](/ru/after-session/ask-sessio)

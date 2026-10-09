@@ -24,7 +24,7 @@ Sessio helps you stay focused on your client during a meeting, then prepares a t
 - [Session note](/after-session/note)
 - [Transcript and speaker roles](/after-session/transcript)
 - [Session summary](/after-session/summary)
-- [Ask Sessio](/after-session/ask-sessio)
+- [Ask Sio](/after-session/ask-sessio)
 - [Share materials with a supervisor](/after-session/share-supervisor)
 
 ## Client and schedule
@@ -51,7 +51,7 @@ Once a session is processed, it gets a page with several tabs. From here you can
 - [Session note](/after-session/note) — a note draft that is saved automatically.
 - [Transcript and roles](/after-session/transcript) — the session text turn by turn; this is also where you fix mixed-up roles.
 - [Session summary](/after-session/summary) — the main themes, agreements, and a plan for the next meeting.
-- [Ask Sessio](/after-session/ask-sessio) — questions about a specific session.
+- [Ask Sio](/after-session/ask-sessio) — questions about a client or a session.
 - [Share materials with a supervisor](/after-session/share-supervisor) — a de-identified version for a supervisor.
 - [Export or delete a session](/after-session/export-delete) — save as PDF/Markdown or delete.
 
@@ -62,35 +62,52 @@ Once a session is processed, it gets a page with several tabs. From here you can
 
 ---
 
-# Ask Sessio
+# Ask Sio
 Source: https://help.sessio.health/after-session/ask-sessio
 
-**Ask Sessio** helps you quickly find or gather information within the open session.
+**Sio** answers questions about a client or a single session. Answers link to quotes from the transcript, so you can check where each fact comes from.
 
 ## Where to find it
 
-Open a session and click **Ask Sessio**.
+The question field sits in the bottom-right corner of every screen in the app, with Sio to its right. Click the field or press **⌘J**.
+
+What you ask about depends on the screen:
+
+- on a client page — all of that client's sessions;
+- on a session page — that session.
+
+To ask about something else, click the avatar on the left of the field and choose **This session**, the client with all sessions, or **Another client · or @name**. You can also start your question with **@** and a client's name.
 
 ## How to do it
 
-Ask a question about this session. For example, you can ask it to:
+1. Click the field or press **⌘J**.
+2. Type a question or pick a suggestion, such as **What did we agree on last time?** or **Which tasks came up?**.
+3. Click **Send**. To interrupt the answer, click **Stop answer**.
 
-- briefly summarize the meeting;
-- find agreements or homework;
-- list the risks mentioned;
-- describe the client's mood based on the recording.
+While Sio is answering, you see the steps: **Transcript read**, **Sessions and schedule checked**, **Writing the answer**. After the answer you can ask a follow-up in the same dialog or start a **New dialog**. Press **Esc** to collapse the dialog.
+
+**Asking about an excerpt.** Select text in a transcript and click **Ask about this excerpt**. The excerpt is attached to your question.
 
 ## What you'll see
 
-An answer based on the content of the open session. It may include links to the transcript so you can check the original fragment. Questions and answers are not added to the client's record and do not change the note or the summary — if you need the result in your work, copy it manually.
+- **An answer with numbered sources.** Click a number to see the quote, the date, and who said it. **Open in transcript** takes you to that line.
+- **Verification tags.** **differs from the quote** means the quote says otherwise, so check the statement. **no source** means the statement links to nothing said.
+- **Short answers without the dialog.** For questions like **When is the next session?** or **How many sessions have there been?**, the answer appears right above the field and the dialog doesn't open.
+- **Answer actions.** **Add to note** inserts the answer with quotes into the session note. If you asked about a client, it goes into the note of the latest session. **Copy** copies the answer. **Mark as inaccurate** reports a mistake to us.
+
+Questions and answers don't change the Portrait or the summary. An answer gets into a note only when you click **Add to note**.
 
 ## If it didn't work
 
-- **The answer looks incomplete.** Ask Sessio answers only about the open session. For the client's overall history, use the **Portrait** tab.
-- **There is no data to answer from.** Make sure the session transcript is ready.
+- **The transcript isn't ready yet.** Wait until the session finishes processing and ask again.
+- **This client has no sessions yet.** Sio answers only from recorded or uploaded sessions.
+- **No questions left for today.** The number of questions per day is limited. The message says when new ones arrive.
+- **No connection.** Ask once the network is back.
+- **The field is gone.** You probably chose **Hide until tomorrow**. Press **⌘J** to bring it back.
+- **You don't want suggestions from Sio.** Right-click Sio and choose **No suggestions**. To get them back, choose **Turn on suggestions** in the same menu.
 
 :::note
-The answer applies only to the open session. For the client's overall history, use the **Portrait** tab.
+If the sessions don't cover your question, Sio says so instead of making up an answer.
 :::
 
 ## Related articles
@@ -248,7 +265,7 @@ These items are insights about the session. They are not a diagnosis or a recomm
 
 - [Session note](/after-session/note)
 - [Transcript and roles](/after-session/transcript)
-- [Ask Sessio](/after-session/ask-sessio)
+- [Ask Sio](/after-session/ask-sessio)
 
 ---
 
@@ -658,7 +675,7 @@ Sessio помогает сохранить внимание на клиенте 
 - [Заметка сессии](/ru/after-session/note)
 - [Расшифровка и роли](/ru/after-session/transcript)
 - [Разбор сессии](/ru/after-session/summary)
-- [Спросить Sessio](/ru/after-session/ask-sessio)
+- [Спросить Сио](/ru/after-session/ask-sessio)
 - [Передать материалы супервизору](/ru/after-session/share-supervisor)
 
 ## Клиент и расписание
@@ -685,7 +702,7 @@ Source: https://help.sessio.health/ru/after-session
 - [Заметка сессии](/ru/after-session/note) — черновик заметки, который сохраняется автоматически.
 - [Расшифровка и роли](/ru/after-session/transcript) — текст сессии по репликам; здесь же исправляют перепутанные роли.
 - [Разбор сессии](/ru/after-session/summary) — основные темы, договорённости и план следующей встречи.
-- [Спросить Sessio](/ru/after-session/ask-sessio) — вопросы по конкретной сессии.
+- [Спросить Сио](/ru/after-session/ask-sessio) — вопросы о клиенте или о сессии.
 - [Передать материалы супервизору](/ru/after-session/share-supervisor) — обезличенная версия для супервизора.
 - [Экспортировать или удалить сессию](/ru/after-session/export-delete) — сохранить в PDF/Markdown или удалить.
 
@@ -696,35 +713,52 @@ Source: https://help.sessio.health/ru/after-session
 
 ---
 
-# Спросить Sessio
+# Спросить Сио
 Source: https://help.sessio.health/ru/after-session/ask-sessio
 
-**Спросить Sessio** помогает быстро найти или собрать информацию внутри открытой сессии.
+**Сио** отвечает на вопросы о клиенте или об одной сессии. В ответе есть ссылки на реплики из расшифровки, по ним можно проверить, откуда взят каждый факт.
 
 ## Где найти
 
-Откройте сессию и нажмите **Спросить Sessio**.
+Поле для вопроса находится в правом нижнем углу любого экрана приложения, справа от него — Сио. Нажмите на поле или нажмите **⌘J**.
+
+О чем будет вопрос, зависит от экрана:
+
+- на странице клиента — обо всех сессиях этого клиента;
+- на странице сессии — об этой сессии.
+
+Чтобы спросить о другом, нажмите на аватар слева в поле и выберите **Эта сессия**, клиента со всеми сессиями или **Другой клиент · или @имя**. Можно просто начать вопрос с **@** и имени клиента.
 
 ## Как это сделать
 
-Задайте вопрос по этой сессии. Можно, например, попросить:
+1. Нажмите на поле или **⌘J**.
+2. Напишите вопрос или выберите подсказку, например **О чем договорились в прошлый раз?** или **Какие задания обсуждали?**.
+3. Нажмите **Отправить**. Чтобы прервать ответ, нажмите **Остановить ответ**.
 
-- коротко резюмировать встречу;
-- найти договорённости или домашнее задание;
-- перечислить упомянутые риски;
-- описать настроение клиента по записи.
+Пока Сио отвечает, видны шаги: **Прочитана расшифровка**, **Проверены сессии и расписание**, **Пишется ответ**. После ответа можно задать уточняющий вопрос в том же диалоге или начать **Новый диалог**. Свернуть диалог можно клавишей **Esc**.
+
+**Вопрос о фрагменте.** Выделите текст в расшифровке и нажмите **Спросить о фрагменте**. Фрагмент прикрепится к вопросу.
 
 ## Что вы увидите
 
-Ответ по содержанию открытой сессии. Он может содержать ссылки на расшифровку, чтобы вы проверили исходный фрагмент. Вопросы и ответы не добавляются в карточку клиента и не меняют заметку или разбор — если результат нужен в работе, скопируйте его вручную.
+- **Ответ с номерами источников.** Нажмите на номер, чтобы увидеть цитату, дату и говорящего. **Открыть в расшифровке** переносит к этой реплике.
+- **Пометки о проверке.** **расходится с репликой** — реплика говорит иначе, проверьте утверждение. **без источника** — у утверждения нет ссылки на реплику.
+- **Короткие ответы без диалога.** На вопросы вроде **Когда следующая сессия?** или **Сколько было сессий?** ответ появляется прямо над полем, диалог не открывается.
+- **Действия с ответом.** **В заметку** вставляет ответ с цитатами в заметку сессии. Если вы спрашивали о клиенте, ответ попадет в заметку последней сессии. **Копировать** копирует ответ. **Отметить как неточный** сообщает нам об ошибке.
+
+Сами вопросы и ответы не меняют Портрет и Разбор. В заметку ответ попадает, только если вы нажали **В заметку**.
 
 ## Если не получилось
 
-- **Ответ выглядит неполным.** «Спросить Sessio» отвечает только по открытой сессии. Для общей истории клиента используйте вкладку **Портрет**.
-- **Нет данных для ответа.** Убедитесь, что расшифровка сессии готова.
+- **Расшифровка еще не готова.** Дождитесь окончания обработки сессии и спросите снова.
+- **У клиента пока нет сессий.** Сио отвечает только по записанным или загруженным сессиям.
+- **Вопросы на сегодня закончились.** Количество вопросов в день ограничено. Время, когда появятся новые, указано под сообщением.
+- **Нет соединения.** Задайте вопрос, когда сеть вернется.
+- **Поле пропало.** Скорее всего, вы выбрали **Скрыть до завтра**. Нажмите **⌘J**, и поле вернется.
+- **Не нужны подсказки от Сио.** Нажмите на Сио правой кнопкой мыши и выберите **Без подсказок**. Вернуть их можно там же, через **Включить подсказки**.
 
 :::note
-Ответ относится только к открытой сессии. Для общей истории клиента используйте вкладку **Портрет**.
+Если в сессиях нет ответа на вопрос, Сио так и скажет и не станет его придумывать.
 :::
 
 ## Связанные статьи
@@ -882,7 +916,7 @@ Source: https://help.sessio.health/ru/after-session/summary
 
 - [Заметка сессии](/ru/after-session/note)
 - [Расшифровка и роли](/ru/after-session/transcript)
-- [Спросить Sessio](/ru/after-session/ask-sessio)
+- [Спросить Сио](/ru/after-session/ask-sessio)
 
 ---
 

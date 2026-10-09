@@ -36,4 +36,4 @@ These items are insights about the session. They are not a diagnosis or a recomm
 
 - [Session note](/after-session/note)
 - [Transcript and roles](/after-session/transcript)
-- [Ask Sessio](/after-session/ask-sessio)
+- [Ask Sio](/after-session/ask-sessio)
