@@ -501,6 +501,14 @@ Sessio doesn't add a separate consent screen and doesn't ask for confirmation in
 
 Export the session to PDF or Markdown via **Actions**. More: [Export or delete a session](/after-session/export-delete).
 
+## Can I pay for a single session?
+
+No. Without a subscription, Pay-as-you-go comes in packs of 10 sessions for $14.90 — $1.49 a session. A pack is the smallest purchase, and you can buy as many as you need. Pack sessions don't expire. Plans are in **Settings → Subscription**.
+
+## What if I run out of included sessions on Solo or Practice?
+
+Extra sessions come in packs of 10 for $10 — a single extra session can't be bought. The next pack is added automatically, so processing doesn't stop, and pack sessions don't expire. Your monthly bill never exceeds the plan cap: $99 on Solo, $129 on Practice.
+
 ---
 
 # Ways to add a session
@@ -1127,6 +1135,14 @@ Sessio не добавляет отдельный экран согласия и
 
 Экспортируйте сессию в PDF или Markdown через **Действия**. Подробнее: [Экспортировать или удалить сессию](/ru/after-session/export-delete).
 
+## Можно ли оплатить одну сессию?
+
+Нет. Без подписки Pay-as-you-go продаётся пакетами по 10 сессий за $14.90 — это $1.49 за сессию. Пакет — минимальная покупка, пакетов можно взять сколько нужно. Сессии из пакета не сгорают. Тарифы — в **Настройки → Подписка**.
+
+## Что будет, если на Solo или Practice закончатся включённые сессии?
+
+Дополнительные сессии продаются пакетами по 10 за $10 — одну дополнительную сессию купить нельзя. Следующий пакет добавляется сам, обработка не останавливается, сессии из пакета не сгорают. Счёт за месяц не превысит потолок тарифа: $99 на Solo и $129 на Practice.
+
 ---
 
 # Способы добавить сессию
@@ -1400,7 +1416,7 @@ Source: https://help.sessio.health/ru/settings
 - **Архив клиентов** — восстановить или полностью удалить клиентов.
 - **Предпочтения** — тема, языки, даты, звуки и уведомления.
 - **Разрешения** — доступ к микрофону, записи экрана и уведомлениям.
-- **Подписка** — тарифы и статистика использования.
+- **Подписка** — тарифы и статистика использования. Сессии продаются пакетами по 10: Pay-as-you-go — $14.90, дополнительные на Solo и Practice — $10.
 - **Данные и приватность** — краткое описание работы с данными сессий.
 - **Помощь** — гайды, сообщение об ошибке и предложение улучшения.
 - **О приложении** — версия Sessio и проверка обновлений.
@@ -1864,7 +1880,7 @@ Click your name at the bottom of the sidebar and select **Settings**. You can re
 - **Archived clients** — restore or permanently delete clients.
 - **Preferences** — theme, languages, dates, sounds, and notifications.
 - **Permissions** — microphone, Screen Recording, and notification access.
-- **Subscription** — plans and usage statistics.
+- **Subscription** — plans and usage statistics. Sessions are sold in packs of 10: Pay-as-you-go $14.90, extra sessions on Solo and Practice $10.
 - **Data & Privacy** — a short overview of how session data is handled.
 - **Help Center** — guides, bug reports, and improvement suggestions.
 - **About** — your Sessio version and update checks.

@@ -17,7 +17,7 @@ Click your name at the bottom of the sidebar and select **Settings**. You can re
 - **Archived clients** — restore or permanently delete clients.
 - **Preferences** — theme, languages, dates, sounds, and notifications.
 - **Permissions** — microphone, Screen Recording, and notification access.
-- **Subscription** — plans and usage statistics.
+- **Subscription** — plans and usage statistics. Sessions are sold in packs of 10: Pay-as-you-go $14.90, extra sessions on Solo and Practice $10.
 - **Data & Privacy** — a short overview of how session data is handled.
 - **Help Center** — guides, bug reports, and improvement suggestions.
 - **About** — your Sessio version and update checks.

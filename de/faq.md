@@ -52,3 +52,11 @@ Sessio doesn't add a separate consent screen and doesn't ask for confirmation in
 ## How do I save the note outside Sessio?
 
 Export the session to PDF or Markdown via **Actions**. More: [Export or delete a session](/after-session/export-delete).
+
+## Can I pay for a single session?
+
+No. Without a subscription, Pay-as-you-go comes in packs of 10 sessions for $14.90 — $1.49 a session. A pack is the smallest purchase, and you can buy as many as you need. Pack sessions don't expire. Plans are in **Settings → Subscription**.
+
+## What if I run out of included sessions on Solo or Practice?
+
+Extra sessions come in packs of 10 for $10 — a single extra session can't be bought. The next pack is added automatically, so processing doesn't stop, and pack sessions don't expire. Your monthly bill never exceeds the plan cap: $99 on Solo, $129 on Practice.
